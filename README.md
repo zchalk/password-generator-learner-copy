@@ -2,7 +2,7 @@
 
 ## 
 
-My goal this week was to create a working password generator from supplied code. The code I was given gave all the HTML/CSS required with a few JavaScript elements to get started. Most of my work was done in JavaScript. I did change some elements in my HTML (the button title and placeholder text), I also changed the color profile of site in CSS to emulate an old school terminal. I used the concat/ random number method for my generator which although not entirely secure was within my grasp.
+
 ## User Story
 
 ```
